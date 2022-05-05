@@ -17,7 +17,7 @@ import argparse
 
 parser = argparse.ArgumentParser()
 # Input argument give thr input as the video file as 
-# python program_name.py --version video_name.mp4(any other format)
+# python program_name.py --video video_name.mp4(any other format)
 
 parser.add_argument("--video")
 
